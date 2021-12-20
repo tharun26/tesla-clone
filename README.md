@@ -1,5 +1,5 @@
 ## Tesla Front-end Clone
-
+URL: https://tesla-clone-12f5b.web.app/
 Built using ReactJS, Styled Components, Redux
 
 ## UI
